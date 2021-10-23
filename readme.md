@@ -4,7 +4,7 @@ Many OSINT tools require downloading and compiling from source, but you don't wa
 
 # How to use this repo
 
-Each tool has its own folder wherein you'll find a `Dockerfile` and a `readme.md` with instructions.
+Each tool has its own folder wherein you'll find a `Dockerfile` and a `readme.md` with instructions on how to build and run the Docker image.
 
 # Prerequisites
 
